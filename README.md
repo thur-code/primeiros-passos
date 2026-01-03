@@ -21,10 +21,10 @@ O objetivo do projeto **não é complexidade**, mas entendimento: como subir um 
 
 
 primeiros_passos/
-├── package.json
-├── package-lock.json
-├── tsconfig.json
-└── src/
+- ├── package.json
+- ├── package-lock.json
+- ├── tsconfig.json
+- └── src/
     └── server.ts
 
 ### Descrição dos Arquivos
