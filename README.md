@@ -20,7 +20,7 @@ O objetivo do projeto **não é complexidade**, mas entendimento: como subir um 
 ## Estrutura do Projeto
 
 ```
-01 Primeiros passos/
+primeiros_passos/
 ├── package.json
 ├── package-lock.json
 ├── tsconfig.json
